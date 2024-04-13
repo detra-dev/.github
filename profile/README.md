@@ -15,7 +15,6 @@ O Departamento de Transporte de Ponta Grossa é responsável por garantir a efic
 Estamos constantemente trabalhando em melhorias e inovações para aprimorar nosso sistema. Alguns dos nossos projetos em andamento incluem:
 
 - **Modernização da Frota:** Estamos investindo na renovação da nossa frota de ônibus para garantir veículos mais confortáveis, seguros e sustentáveis.
-- **Infraestrutura Ciclável:** Estamos expandindo nossa infraestrutura ciclável, com a construção de mais ciclovias e ciclofaixas em toda a cidade.
 - **Integração de Tecnologia:** Estamos explorando soluções tecnológicas para melhorar a experiência do usuário, como aplicativos móveis para planejamento de viagens e pagamento eletrônico.
 
 ## Contato
